@@ -15,14 +15,6 @@ A collection of numerical and statistical methods implemented in Python.
 | `newton_forward.py` | Newton's Forward Interpolation |
 | `newton_backward.py` | Newton's Backward Interpolation |
 
-## How to Run
-
-Make sure Python 3 is installed, then run any file directly:
-
-```
-python bisection.py
-```
-
 Each program takes input from the user at runtime.
 
 ## Topics Covered
